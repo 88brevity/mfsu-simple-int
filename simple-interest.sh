@@ -4,7 +4,7 @@
 
    # Do not use this in production. Sample purpose only.
 
-   # Author: Kevin H (IBM)
+   # Author: *Kevin H (IBM) (This is a copied sample from the IBM lab)
    # Additional Authors:
    # 88brevity
 
